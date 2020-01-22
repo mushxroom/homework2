@@ -9,7 +9,7 @@ h1{
 }
 h2{
 	font-size: 30px;
-	filter: drop-shadow(5px 5px 2px #c7e2c7);
+	filter: drop-shadow(5px 5px 2px #808080);
 }
 p{
 	font-size: 24px;
@@ -40,7 +40,7 @@ div{
 }
 #yellow h2{
 	color: black;
-	filter: drop-shadow(5px 5px 2px #808080);
+	filter: drop-shadow(5px 5px 2px #c7e2c7);
 }
 #yellow p{
 	color: black;
